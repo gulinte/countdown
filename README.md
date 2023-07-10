@@ -1,5 +1,5 @@
 # Countdown Timer
-This is a simple countdown timer project implemented in Python using the Tkinter library. The application allows users to set a specific duration and counts down the time until it reaches zero. When the countdown finishes, it plays "bruh" sound to alert the user.
+This is a countdown timer project implemented in Python using the Tkinter library. The application allows users to set a specific duration and counts down the time until it reaches zero. When the countdown finishes, it plays "bruh" sound to alert the user.
 
 ## Installation
 
